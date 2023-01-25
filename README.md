@@ -13,7 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Hello, my name is Wenxiao Xue. I will graduate from university soon. I hope to help people have a better life with what I have learned.
-![Meo's GitHub stats](https://github-readme-stats.vercel.app/api?username=stonexwx&show_icons=true)
+> ![Meo's GitHub stats](https://github-readme-stats.vercel.app/api?username=stonexwx&show_icons=true)
+
+
 I mostly program in Java but I also use Vue, Python, and Rust.
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stonexwx&layout=compact)
+> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stonexwx&layout=compact)
+
+
 I like programming, it can bring me a lot of challenges, let me constantly learn to improve myself.
